@@ -158,8 +158,5 @@ public class Main{
                 }
             }
         }
-        //for (int i=0;i<86;i+=2){
-        //System.out.println(points[i]+" "+points[(i+1)]);
-        //}
     }
 }
